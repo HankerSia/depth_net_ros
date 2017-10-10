@@ -1,6 +1,7 @@
 #ifndef DEPTHNET_H
 #define DEPTHNET_H
 
+using namespace std;
 #include <iostream>
 #include <vector>
 #include <sstream>
